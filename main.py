@@ -1,5 +1,3 @@
 import torch
-
-tensor = torch.rand(3, 4)
-
-print(tensor.shape)
+x = torch.rand(5, 3)
+print(x)
