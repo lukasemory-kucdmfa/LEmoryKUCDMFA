@@ -1,0 +1,1 @@
+This is a good example of a login screen because it gives user the option to sign it with Google, Apple, or Facebook. There is a clear primary call to action with the dark 'Continue' button and secondary buttons for Google, Facebook, and Apple. There is a focal color so you can tell which content you are interacting with.

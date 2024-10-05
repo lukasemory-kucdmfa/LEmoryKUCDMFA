@@ -1,0 +1,1 @@
+The design of this interface prioritizes the brand of the images instead of the app itself. It could be better if the PlayStation brand was more prominent with a logo or more obvious focal color.

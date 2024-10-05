@@ -1,0 +1,1 @@
+This is a good example of a popup that darkens the original content and draws the user's attention to the popup. There is a clear design system for the multiple choice so you can tell which option you've chosen based on both color and shape.

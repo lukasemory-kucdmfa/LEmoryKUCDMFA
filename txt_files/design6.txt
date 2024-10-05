@@ -1,0 +1,1 @@
+There are two good uses of the red noification badge. The design is organized and easy to read with appropriate margins and padding. The use of darkening colors in the progress bars tell the user information without using text.

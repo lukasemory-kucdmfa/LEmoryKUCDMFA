@@ -1,0 +1,1 @@
+This is a nice example of a character customization page. You can navigate through body parts, colors, and styles in three different places so you can dynamically create your character. The biggest part of the heirarchy is your character so you can see the changes happen in real time. There is a focal color in the call to action 'Save' so you remember the brand.

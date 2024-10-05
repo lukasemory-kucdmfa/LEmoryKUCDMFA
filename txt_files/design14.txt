@@ -1,0 +1,1 @@
+There is a smart use of greyed out content which would encourage the user to engage with the app to unlock it. However, the text is too small and the color contrast is too low in the call to action 'Unlock all games and levels'. There is a good organization of content with consistent navigation styles.

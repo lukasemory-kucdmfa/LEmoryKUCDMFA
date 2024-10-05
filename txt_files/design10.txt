@@ -1,0 +1,1 @@
+This is a good use of telling the user what you want them to do by recommending specific content to look at and click on. There is a black overlay on less important content so we focus on the most important content.

@@ -1,0 +1,1 @@
+There are well designed toggles that change color and contrast so you can tell which ones have been interacted with. There is a clear call to action with the blue 'Live View' button. The secondary actions are well organized into rounded squares and there is a red notifcation badge that says 'NEW' to draw attention to new features.

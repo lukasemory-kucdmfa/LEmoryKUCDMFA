@@ -1,0 +1,1 @@
+This is a good example of a popup that darkens the original content and draws the user's attention to the popup. While the icons are all appropriately spaced and sized, they are hard to read through because they are not in a clear order. They are not alphabetical or easy to sort or search through. They are not categorized which makes it hard to find the tool you want.
